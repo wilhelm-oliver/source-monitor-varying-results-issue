@@ -1,5 +1,7 @@
 # source-monitor-varying-results-issue
 
+**! This issue is now fixed as of [Source Monitor v3.5.3.327](http://www.campwoodsw.com/smbeta.html) !**
+
 Reproduction details:
 - Source Monitor v3.5.3.323 or v3.5.0.306
 - Windows 7 Home Premium SP1 (x64)
